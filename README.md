@@ -31,6 +31,7 @@
 <br/>
 ![NESTJS](https://img.shields.io/badge/NestJS-E0234E?logo=nestjs&logoColor=fff&style=for-the-badge)
 ![FastApi](https://img.shields.io/badge/FastApi-7952B3?logo=fastapi&logoColor=fff&style=for-the-badge)
+![Django](https://img.shields.io/badge/Django-092E20?logo=django&logoColor=fff&style=for-the-badge)
 
 ### Databases
 
